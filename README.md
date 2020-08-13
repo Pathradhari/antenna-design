@@ -1,2 +1,2 @@
 # antenna-design
-Practical antena design matlab codes
+matlab codes for practical antenna design
